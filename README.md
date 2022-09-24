@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @red-night-veil
 - 👀 I’m interested in javascript and moblie development. Where I can build useful apps.
-- 🌱 I’m currently learning web development fundamentals. Basic HTML and CSS.
+- 🌱 I’m currently learning web development fundamentals. Basic react and still learning JavaScript.
 - 💞️ I’m looking to collaborate on something that can be easy to  manipulate code. Then take leaps to more advance projects.
 - 📫 How to reach me via email spookyred00@outlook.com
 
